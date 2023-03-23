@@ -8,4 +8,4 @@
  
 * **⚙️ Drive for Other Mods - https://drive.google.com/drive/folders/1v7lCkKKODl1Xw3d2TeG4u1lC7PMoWfU8?usp=sharing**
  
-* **Discord - Low#4715**
+* Discord - Low#4715**
