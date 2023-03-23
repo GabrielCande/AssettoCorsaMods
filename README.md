@@ -1,2 +1,2 @@
 # AssettoCorsaMods
-Assetto Corsa Mods
+Repository with assetto corsa mods in general
