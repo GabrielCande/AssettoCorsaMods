@@ -1,7 +1,6 @@
 # AssettoCorsaMods 
 ### Repository with assetto corsa mods in general, there are other mods in the following Drives: 
-#
-* **🚗 First Drive for Cars - 
+# * **🚗 First Drive for Cars - 
 https://drive.google.com/drive/folders/1cqCO4aH2S_K_C2bz0fbmcpX56M6nal4E?usp=sharing**
  
 * **🚗 Second Drive for Cars - 
